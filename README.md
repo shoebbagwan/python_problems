@@ -1,1 +1,1 @@
-In this repository i am solving some basic python programs that often asked in interview.
+In this repository I am solving some basic python programs that is often asked in interview.
