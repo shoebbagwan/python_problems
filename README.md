@@ -1,1 +1,1 @@
-common python problems asked in interviews.
+Basic python problems.
